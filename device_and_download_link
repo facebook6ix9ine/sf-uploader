@@ -2,4 +2,4 @@
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
 device="phoenix"
-download_link="https://download.goindi.org/Kunal/phoenix/Official/PixelPlusUI_3.4_phoenix-11.0-20210503-1641-OFFICIAL.zip"
+download_link="https://download.goindi.org/Kunal/phoenix/PixelPlusUI_3.5_phoenix-11.0-20210516-1240-OFFICIAL.zip"
